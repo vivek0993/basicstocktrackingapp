@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StockTrackingApp</string>
+    <string name="bottom_menu_home">Home</string>
+    <string name="bottom_menu_wishlist">Wishlist</string>
+    <string name="bottom_menu_profile">Profile</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="register_btn">REGISTER</string>
+    <string name="password_hint">password</string>
+    <string name="email_hint">email</string>
+    <string name="userName_hint">name</string>
+</resources>
